@@ -1546,4 +1546,7 @@
     <string name="pa_pie_gravity_bottom">Bottom</string> 
     <string name="pa_pie_gravity_right">Right</string> 
     <string name="pa_pie_gravity_left">Left</string> 
+
+    <!-- Advanced Controls -->
+    <string name="advanced_controls_title">Advanced Controls</string>
 </resources>
